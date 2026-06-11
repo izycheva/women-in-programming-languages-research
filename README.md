@@ -111,6 +111,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
 
 ## Postdocs
+* [Malin Altenmüller](https://maltenmuller.github.io/), University of Edinburgh, UK
 * [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
 * [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark, Denmark
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
