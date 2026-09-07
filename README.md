@@ -12,6 +12,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Faculty and Research Scientists (at Universities or Research Institutions)
 * [Sara Achour](https://people.csail.mit.edu/sachour/), Stanford, USA
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
+* [Debasmita Lohar](https://dlohar.github.io/), IT University of Copenhagen, Denmark
 * [Nada Amin](https://namin.seas.harvard.edu), Harvard University, USA
 * [Zena M. Ariola](http://ix.cs.uoregon.edu/~ariola/), University of Oregon, USA
 * [Anya Helene Bagge](http://www.ii.uib.no/~anya/), University of Bergen, Norway
@@ -110,6 +111,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
 
 ## Postdocs
+* [Malin Altenmüller](https://maltenmuller.github.io/), University of Edinburgh, UK
 * [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
 * [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark, Denmark
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
@@ -117,6 +119,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Northeastern University, USA
+* [Neea Rusch](https://neea.pl), Uppsala University, Sweden
 * [Larisa Safina](https://lsafina.github.io/), INRIA, France
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
@@ -127,17 +130,17 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Julia Belyakova](https://julbinb.github.io/), Northeastern University, USA
 * [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
+* [Amelia Dobis](https://www.cs.princeton.edu/~ad4048/), Princeton University, USA
+* [Greta Dolcetti](https://gretadolcetti.github.io/), Ca' Foscari University of Venice, Italy
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
 * [April Gonçalves](http://cyberglot.me/), University of Strathclyde, UK
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
-* [Debasmita Lohar](https://dlohar.github.io/), Karlsruhe Institute of Technology, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Rachel Muir](https://www.linkedin.com/in/rachel-muir00/?originalSubdomain=uk), University of Kent, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
-* [Neea Rusch](https://nkrusch.github.io), Augusta University, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
 * [Tori Vollmer](https://research.kent.ac.uk/programming-languages-systems/person/tori-vollmer/), University of Kent, UK
